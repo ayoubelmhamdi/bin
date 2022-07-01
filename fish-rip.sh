@@ -1,0 +1,1 @@
+/root/scripts/find/fish-rip.sh
