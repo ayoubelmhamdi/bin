@@ -1,1 +1,1 @@
-/root/scripts/suckless/sl
+/home/mhamdi/scripts/suckless/sl

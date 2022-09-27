@@ -1,1 +1,1 @@
-/root/scripts/git/g
+/home/mhamdi/scripts/git/g

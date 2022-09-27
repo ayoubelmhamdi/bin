@@ -1,1 +1,1 @@
-/root/scripts/find/fish-rip.sh
+/home/mhamdi/scripts/find/fish-rip.sh

@@ -1,1 +1,1 @@
-/root/scripts/alias/v
+/home/mhamdi/scripts/app/v

@@ -1,1 +1,1 @@
-/root/scripts/alias/f
+/home/mhamdi/scripts/alias/f
